@@ -1,0 +1,8 @@
+DB_SERVER = "localhost\\SQLEXPRESS"
+DB_NAME = "UniversityDB"
+DB_DRIVER = "{ODBC Driver 17 for SQL Server}"
+
+EXCELLENT_SCORE = 90
+GOOD_SCORE = 80
+AVERAGE_SCORE = 70
+PASS_SCORE = 60
